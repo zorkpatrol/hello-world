@@ -3,3 +3,5 @@
 ![alt text][logo]
 
 Bitchin' Camaro!
+
+Download the lastest bitchin' release for Mac OS X, Linux, and Windows [here](https://github.com/zorkpatrol/hello-world/releases):
